@@ -15,3 +15,6 @@ Rechts oben befinden sich 3 rote, ausgefüllte Quadrate, die die Lebenspunkte da
 
 Ein schraffiertes Quadrat stellt die Spielfigur, welche sich mit den Pfeiltasten nach rechts und links bewegen lassen.
 
+
+!!! Beim Öffnen der Datein kann es sein, dass zunächst nicht alle Objekte angezeigt werden. Nach öfteren debuggen sollten jedoch alle Objekte angezeigt werden.
+
